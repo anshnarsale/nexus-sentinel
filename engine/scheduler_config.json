@@ -1,0 +1,5 @@
+{
+  "max_concurrent_workers": 8,
+  "task_timeout_ms": 30000,
+  "retry_limit": 3
+}
