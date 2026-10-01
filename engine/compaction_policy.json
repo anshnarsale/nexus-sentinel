@@ -1,0 +1,4 @@
+{
+  "trigger_token_ratio": 0.85,
+  "summary_target_tokens": 500
+}
