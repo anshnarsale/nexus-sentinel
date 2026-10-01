@@ -1,0 +1,4 @@
+{
+  "heartbeat_ms": 5000,
+  "deadlock_threshold_cycles": 3
+}
