@@ -1,0 +1,5 @@
+{
+  "max_memory_mb": 512,
+  "max_cpu_percent": 75,
+  "timeout_seconds": 45
+}
